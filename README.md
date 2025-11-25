@@ -1,3 +1,4 @@
 # Pegar-imagenes
 Para pegar imagenes
-![descripcion de la imagen](/imagenes/paisaje.jpg)
+![primer paisaje](/imagenes/paisaje.jpg)
+![segundo paisaje](/imagenes/paisaje2.jpg)
